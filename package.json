@@ -1,0 +1,22 @@
+{
+  "name": "order-sorter",
+  "version": "1.0.0",
+  "description": "designed to sort an html document containing online retail orders",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phillipdodd/node-order-sorter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phillipdodd/node-order-sorter/issues"
+  },
+  "homepage": "https://github.com/phillipdodd/node-order-sorter#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2"
+  }
+}
